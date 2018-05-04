@@ -1,7 +1,6 @@
 {
   "name": "exercise_13_5",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,6 +10,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "colors": "^1.2.3"
-  }
+    "colors": "^1.2.3",
+    "stat-mode": "^0.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joanb2/exercise_13_7.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Joanb2/exercise_13_7/issues"
+  },
+  "homepage": "https://github.com/Joanb2/exercise_13_7#readme",
+  "description": ""
 }
